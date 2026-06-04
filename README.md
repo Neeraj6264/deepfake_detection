@@ -179,5 +179,3 @@ This project is licensed under the MIT License.
 Computer Science & Engineering Student
 MANIT Bhopal
 
-GitHub: https://github.com/your-github-username
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
